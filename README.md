@@ -61,12 +61,3 @@ This software is released under the [MIT License](/LICENSE)
 - Steve Zheng [(@stevezhengshiqi)](https://github.com/stevezhengshiqi) for testing and bug reporting
 - http://patorjk.com for the amazing ASCII Art font `Impossible`
 
-## Donation
-
-**Writing Code and Debugging are not easy, if you appreciate my work, please buy me a coffee. It's not required but will be highly appreciated😋😋😋.**
-
-<details>
-<summary>WeChat Pay & Alipay</summary>
-<img src="https://raw.githubusercontent.com/williambj1/GenI2C/Doc/img/Donation/DAPWP.jpg" align=center>
-<img src="https://raw.githubusercontent.com/williambj1/GenI2C/Doc/img/Donation/DAPAP.jpg" align=center>
-</details>
